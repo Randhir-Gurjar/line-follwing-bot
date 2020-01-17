@@ -12,4 +12,4 @@ Its working is based on the sensor's reading when the IR sensor both the left an
 * **2 12V DC Motors**
 * **Motor driver**
 * **2 IR Sensors**
-* **Jmpping Wires**
+* **Jumpping Wires**
