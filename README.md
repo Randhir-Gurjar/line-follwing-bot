@@ -13,6 +13,6 @@ Its working is based on the sensor's reading when the IR sensor both the left an
 * **L293D Motor driver**
 * **2 IR Sensors**
 * **Jumpping Wires**
-* **9-11V Battery
+* **9-11V Battery**
 
-![](image
+![](image/circuit.JPG)
