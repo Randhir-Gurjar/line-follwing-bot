@@ -10,6 +10,9 @@ Its working is based on the sensor's reading when the IR sensor both the left an
 #### *Things required*
 * **Ardiuno UNO**
 * **2 12V DC Motors**
-* **Motor driver**
+* **L293D Motor driver**
 * **2 IR Sensors**
 * **Jumpping Wires**
+* **9-11V Battery
+
+![](image
