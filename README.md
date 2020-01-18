@@ -17,19 +17,32 @@ Its working is based on the sensor's reading when the IR sensor both the left an
 
 ![](image/circuit.JPG)
 
+
+
 ![](image/Ardiuno.jpg)
 **Ardiuno UNO**
+
+
 
 ![](image/IR%20sensor.jpg)
 **IR sensor**
 
+
+
 ![](image/Castor%20wheel.jpg)
 **Castor Wheel**
+
+
 
 ![](image/L293D%20Moter%20driver.jpg)
 **L293D Moter driver**
 
+
+
 ![](image/dc%20Moter.jpg)
 **DC Moter**
 
+
+
 ![](image/bot%20image.jpg)
+**My Bot**
